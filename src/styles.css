@@ -1,0 +1,19 @@
+img {
+  object-fit: cover;
+  margin: auto;
+}
+
+a.img:hover {
+  transform: 2s;
+  opacity:1;
+}
+
+img.type1 {
+  width: 300px;
+  height: 200px;
+}
+
+img.type2 {
+  width: 200px;
+  height: 300px;
+}
